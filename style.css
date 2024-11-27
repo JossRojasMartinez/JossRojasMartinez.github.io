@@ -9,24 +9,29 @@ header{
 
 header a{
     color: #A1DD70;
+    font-weight: bold;
 }
 
-head{
-    background-color: #1C1678;
+.hero{
+    background-color: #EAEAEA;
 }
 
 .nav-item a{
     color: #EAEAEA;
+    font-weight: bold;
     
 }
 
 #boton-perfil{
     background-color: #8576FF;
+    font-weight: bold;
+    
 }
 
 .nav-item a:hover{
     background-color: #7BC9FF;
     color: #EAEAEA;
+
 }
 
 #app{
@@ -37,26 +42,54 @@ head{
 .boton-cv{
     background-color: #A3FFD6;
     color: #EAEAEA;
+    border-color: #8559A5;
+    
 }
 
 .boton-cv a{
     text-decoration: none;
     color: #8559A5;
+    font-weight: bold;
 }
 
 .boton-cv:hover{
     background-color: #00BDAA;
     color: #EAEAEA;
     border-color: #00BDAA;
+    font-weight: bold;
 }
 
 .cajah {
-    background-color: #7BC9FF;
-    color: #0b0b0b;
+    background-color: #0b0b0b;
+    color: #8576FF;
 }
 
+
+.cajah h2{
+
+    color: #A1DD70;
+    font-weight: bold;
+}
+
+.cajah h3{
+
+    color: #A1DD70;
+    font-weight: bold;
+}
+
+
 .cajap {
-    background-color: #A3FFD6;
+    background-color: #020202;
+    color: #7BC9FF;
+}
+
+.cajap h2{
+    color: #7BC9FF;
+    font-weight: bold;
+}
+
+.cajap .card{
+    background-color: #7BC9FF;
     color: #020202;
 }
 
@@ -70,14 +103,35 @@ head{
     background-color: #8559A5;
 }
 
-.card .card-title{
-   color: #8559A5;
-    
+.cajat{
+   
+    background-color: #020202;
 }
 
-.card {
-    
+.cajat h2{
+    color: #00BDAA;
+    font-weight: bold;
+}
+
+.border-bottom{
+    color: #050505;
+    font-weight: bold;
+}
+
+.card .card-title{
+   color: #8559A5;
+   font-weight: bold;
+}
+
+.card .card-subtitle{
+    color: #7BC9FF;
+    font-weight: bold;
+ }
+
+.cajat .card {
+    background-color: #020202;
     text-align: center;
+    color: #00BDAA;
      
  }
  
@@ -127,6 +181,6 @@ footer p a{
  } 
 
 .bi{
-    color: #A3FFD6;
+    color: #A1DD70;
     text-decoration: none;
  }
