@@ -6,6 +6,9 @@
 header{
     background-color: #1C1678;
 }
+header{
+    background-color: #1C1678;
+}
 
 header a{
     color: #A1DD70;
@@ -40,22 +43,24 @@ header a{
 }
 
 .boton-cv{
-    background-color: #A3FFD6;
-    color: #EAEAEA;
+    color: #A3FFD6;
+    background-color: #050505; 
     border-color: #8559A5;
+    
     
 }
 
 .boton-cv a{
-    text-decoration: none;
-    color: #8559A5;
+    color: #A3FFD6;
+    border-color: #8559A5;
     font-weight: bold;
+    text-decoration: none;
 }
 
 .boton-cv:hover{
-    background-color: #00BDAA;
-    color: #EAEAEA;
-    border-color: #00BDAA;
+    color: #8559A5;
+    background-color: #A1DD70; 
+    border-color: #A1DD70;
     font-weight: bold;
 }
 
@@ -159,6 +164,7 @@ header a{
  #btn-contacto{
     color: #A3FFD6;
     background-color: #050505; 
+    font-weight: bold;
     
  }
 
