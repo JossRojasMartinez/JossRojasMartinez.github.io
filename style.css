@@ -1,0 +1,132 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    
+}
+
+header{
+    background-color: #1C1678;
+}
+
+header a{
+    color: #A1DD70;
+}
+
+head{
+    background-color: #1C1678;
+}
+
+.nav-item a{
+    color: #EAEAEA;
+    
+}
+
+#boton-perfil{
+    background-color: #8576FF;
+}
+
+.nav-item a:hover{
+    background-color: #7BC9FF;
+    color: #EAEAEA;
+}
+
+#app{
+    
+    color: #A1DD70;
+}
+
+.boton-cv{
+    background-color: #A3FFD6;
+    color: #EAEAEA;
+}
+
+.boton-cv a{
+    text-decoration: none;
+    color: #8559A5;
+}
+
+.boton-cv:hover{
+    background-color: #00BDAA;
+    color: #EAEAEA;
+    border-color: #00BDAA;
+}
+
+.cajah {
+    background-color: #7BC9FF;
+    color: #0b0b0b;
+}
+
+.cajap {
+    background-color: #A3FFD6;
+    color: #020202;
+}
+
+.btn-proyecto a {
+    text-decoration: none;
+    color: #EAEAEA;
+}
+
+.btn-proyecto{
+   
+    background-color: #8559A5;
+}
+
+.card .card-title{
+   color: #8559A5;
+    
+}
+
+.card {
+    
+    text-align: center;
+     
+ }
+ 
+ #contacto{
+    background-color: #EAEAEA;
+    color: #0d0d0d;
+ }
+
+ #contacto i{
+    
+    color: #0d0d0d;
+ }
+
+ #contacto h1{
+    
+    color: #A1DD70; 
+ }
+
+ #contacto p{
+    
+    color: #050505; 
+    
+ }
+
+ #btn-contacto{
+    color: #A3FFD6;
+    background-color: #050505; 
+    
+ }
+
+ #btn-contacto:hover{
+    color: #8559A5;
+    background-color: #A1DD70; 
+    
+ }
+
+footer {
+    background-color: #1C1678;
+ } 
+footer p a{
+    color: #A3FFD6;
+    text-decoration: none;
+ }
+
+ footer p{
+    color: #EAEAEA;
+ } 
+
+.bi{
+    color: #A3FFD6;
+    text-decoration: none;
+ }
